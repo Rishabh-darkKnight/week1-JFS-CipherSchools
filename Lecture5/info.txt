@@ -1,0 +1,1 @@
+In this Lecture we will learn about anatomy of Java
