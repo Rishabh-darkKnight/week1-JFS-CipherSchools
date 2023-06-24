@@ -1,4 +1,11 @@
 //Inheritance
+
+//1.1 Memory usage optimization
+//1.2 Code Reusability
+// --faster development
+// -- central code(easy to debug/test)
+// productivity/efficiency
+
 public class Furniture {
 
 
